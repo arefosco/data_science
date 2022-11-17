@@ -25,5 +25,9 @@ I have experience in Project Management, Agile Projects, Innovation, Technology,
 ---
 
 
+## Projetos:
+Veja meus projetos:
+
+* **Data Science: Investigando o naufrágio do Titanic:** https://github.com/arefosco/data_science/blob/master/meu_projeto-titanic/Meu_Projeto-titanic.ipynb
 
 
