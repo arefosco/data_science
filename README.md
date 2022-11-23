@@ -32,4 +32,5 @@ Veja meus projetos:
 * **Análise dos índices de suicídio no Brasil:** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/meu_projeto-setembro-amarelo.ipynb)
 * **Gráfico Waffle:** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/meu_projeto-grafico-waffle-em-python.ipynb)
 * **Machine Learning para Detectar Câncer de Mama** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/meu_projeto-machine-learning-detec-cancer-mama.ipynb)
+* **Airbnb Data Analysis Milan** [VEJA AQUI]("https://github.com/arefosco/airbnb_data_analysis_milan/blob/36e32540cb33760048af3e6f5485eff5ba07ac7f/airbnb_data_analysis_milan.ipynb")
 
