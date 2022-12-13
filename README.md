@@ -33,4 +33,5 @@ Veja meus projetos:
 * **Gráfico Waffle:** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/meu_projeto-grafico-waffle-em-python.ipynb)
 * **Machine Learning para Detectar Câncer de Mama** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/meu_projeto-machine-learning-detec-cancer-mama.ipynb)
 * **Airbnb Data Analysis Milan** [VEJA AQUI](https://github.com/arefosco/airbnb_data_analysis_milan/blob/36e32540cb33760048af3e6f5485eff5ba07ac7f/airbnb_data_analysis_milan.ipynb)
-
+* **Panorama do Covid-19 no Mundo e no Brasil** [VEJA AQUI](https://github.com/arefosco/panorama-covid-19-brasil/blob/99e195cd8594a84ddd619e5496fc821bb2f9b9ba/Projeto_Panorama_do_COVID_19_no_Brasil.ipynb)
+* **Detecção de Fraudes em Cartões de Crédito** [VEJA AQUI](https://github.com/arefosco/deteccao-fraude-cartoes-de-credito/blob/f1e17f1093174c8be18566f9edd3b7231d45456b/PROJETO_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
