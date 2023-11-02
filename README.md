@@ -37,4 +37,4 @@ Veja meus projetos:
 * **Detecção de Fraudes em Cartões de Crédito** [VEJA AQUI](https://github.com/arefosco/deteccao-fraude-cartoes-de-credito/blob/f1e17f1093174c8be18566f9edd3b7231d45456b/PROJETO_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 * **Churn Prediction para Empresa de Telecomunicações** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/Projeto_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 * **Análise de Desmatamento Ilegal na Terra Indígena Igarapé Laje** [VEJA AQUI](https://github.com/arefosco/data_science/blob/master/An%C3%A1lise_de_desmatamento_ilegal_Terra_Ind%C3%ADgena.ipynb)
-* **Dashboard de previsão de preço de ações com Streamlit**[VEJA AQUI](https://github.com/arefosco/stock-forecast) 
+* **Dashboard de previsão de preço de ações com Streamlit** [VEJA AQUI](https://github.com/arefosco/stock-forecast) 
